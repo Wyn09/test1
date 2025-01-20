@@ -4,4 +4,4 @@ print("hello git")
 
 ###
 # 
-print("main")
+print("man")
